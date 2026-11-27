@@ -22,6 +22,8 @@ kanban-plugin: board
 
 - [ ] [[Objects]]
 - [ ] [[Throwing Characters]]
+- [ ] [[Grappling]]
+- [ ] [[Shoving]]
 
 
 ## Spellcasting

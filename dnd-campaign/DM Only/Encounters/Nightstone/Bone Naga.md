@@ -20,7 +20,7 @@ The bone naga uses the first turn to "summon" the zombies, then attacks normally
 * bobbles and trinkets worth 73g on the rotting corpses.
 
 ## Expected Outcomes
-Party defeats the foes.
+Party defeats the zombies. [[Karen Dren]] defeated the Bone Naga. Party does gain the experience but not the gold.
 
 ## Image
 ![[bone-naga-fountain.png]]

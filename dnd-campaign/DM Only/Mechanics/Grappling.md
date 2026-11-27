@@ -1,0 +1,1 @@
+You can attempt a grapple by making an unarmed strike against a creature and choosing the grapple option (there’s also options for damaging or shoving too). The target makes a ==🔴strength or dexterity saving throw== (it chooses) with the ==🔴DC being 8 plus your strength modifier and proficiency bonus==.

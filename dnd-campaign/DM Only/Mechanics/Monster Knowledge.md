@@ -27,3 +27,4 @@ Usually only players proficient with the required skill can go beyond the Interm
 | Humanoids     | Medicine                |
 | Monstrosities | Nature                  |
 | Oozes         | Nature                  |
+| Undead        | Religion                | 

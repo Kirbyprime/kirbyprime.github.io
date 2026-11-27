@@ -31,7 +31,7 @@ draft: "true"
 
 In life, a devoted paladin in the service of [[Tyr]]. In death, an abomination of the human form, equal parts seductive and revolting.
 
-Following the ritual that summoned the Herald to the material plane, it consumed the soul of [[Karen the Relentless]] and possessed her body, regenerating and twisting her body to mock her faith.
+Following the ritual that summoned the Herald to the material plane, it consumed the soul of [[Karen Dren]] and possessed her body, regenerating and twisting her body to mock her faith.
 
 The herald has no name. It exists solely to enact the will of the [[Outer Gods]]. Its plans are chaotic and unknowable. At times, it will butcher whole villages in the dead of  night, only to turn around and save children from would be slavers.
 

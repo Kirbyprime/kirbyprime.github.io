@@ -25,6 +25,6 @@ published: 2026-11-13T06:02:30.405Z
 
 ## Key Learnings
 
-- 204xp gained obtained
+- 1225(204)xp gained obtained
 - 65g obtained
 - Ancient Compass obtained

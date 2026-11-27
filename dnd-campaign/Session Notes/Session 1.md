@@ -18,7 +18,7 @@ published: 2026-10-28T21:46:02.606Z
 
 ## Key Learnings
 
-- 170xp gained obtained
+- 1025(170)xp gained obtained
 - 59g obtained
 - [[Compass Orders| Scroll]] with orders obtained
 - Found out that the settlement they're in is called Nightstone
