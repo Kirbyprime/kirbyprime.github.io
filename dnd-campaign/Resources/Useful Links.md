@@ -1,3 +1,8 @@
+---
+publish: true
+---
+
+
 ## [2024 D&D 5.5e Level Up Tool](https://dndlevel.app/2024)
 * Useful for leveling up classes
 
