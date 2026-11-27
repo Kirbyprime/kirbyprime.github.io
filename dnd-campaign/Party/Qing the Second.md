@@ -30,5 +30,7 @@ After hearing [[The Whispers | the Whispers]], he had an epiphany and instead st
 
 With nowhere to go and abandoned by his temple, Qing followed the voices in his head and started travelling towards the horizon, beating up everyone in his path in the name of training.
 
+Qing calls himself an Italian.
+
 ## Relations
 ## Possessions

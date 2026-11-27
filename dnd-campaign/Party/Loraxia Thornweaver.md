@@ -30,5 +30,7 @@ Prior to joining the [[The Party | Party]], she lived with her animal friends fa
 
 However, progress had no plans of leaving her alone, especially as its loggers felled trees and hunters killed animals she called friends. Cursing her weakness, she wallowed in the forest until the [[The Whispers | Whispers]] started talking to her. They promised her a grand vision: a world where everything would be returned to nature, where cities would crumble and animals would be free to roam as they pleased. All Loraxia had to do was surrender herself to the voices.
 
+Loraxia calls herself a Canadian.
+
 ## Relations
 ## Possessions
