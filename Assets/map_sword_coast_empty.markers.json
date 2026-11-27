@@ -9,6 +9,11 @@
       "name": "Ruins",
       "visible": true,
       "locked": false
+    },
+    {
+      "id": "layer_dct5ee",
+      "name": "Cities",
+      "visible": true
     }
   ],
   "markers": [
@@ -29,7 +34,7 @@
       "id": "marker_bplxkj",
       "x": 0.4128927948902706,
       "y": 0.3515976503440297,
-      "layer": "default",
+      "layer": "layer_dct5ee",
       "link": "",
       "iconKey": "pinRed",
       "tooltip": "Waterdeep"
@@ -39,7 +44,7 @@
       "id": "marker_97g74q",
       "x": 0.36603239850323177,
       "y": 0.1835051841110475,
-      "layer": "default",
+      "layer": "layer_dct5ee",
       "link": "",
       "iconKey": "pinRed",
       "tooltip": "Neverwinter"
@@ -49,7 +54,7 @@
       "id": "marker_fgf68i",
       "x": 0.35091601626416025,
       "y": 0.09264209992684233,
-      "layer": "default",
+      "layer": "layer_dct5ee",
       "link": "",
       "iconKey": "pinRed",
       "tooltip": "Luskan"
